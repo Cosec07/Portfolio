@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  color: #213547;
+  background-color: #ffffff;
+}
+
+a {
+  color: #0676d4;
+}
+
+a:hover {
+  text-decoration: underline;
+}
