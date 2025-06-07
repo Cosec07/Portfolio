@@ -1,13 +1,10 @@
-# Portfolio
+# Portfolio Site
 
-React based portfolio website built with Vite and React.
-
-## Getting Started
+This directory contains the React source code for the portfolio. To run it locally:
 
 ```bash
-cd portfolio-site
 npm install
 npm run dev
 ```
 
-Then open the displayed local URL in your browser.
+The site will be served via Vite's development server.
